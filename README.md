@@ -1,5 +1,5 @@
 # QR-Code-Generator
-Python script that converts links provided by the user into QR codes using the python QR code library
+Python script that converts links provided by the user into QR codes using the python QR code library and saves them as a file
 
 Prerequisites:
 1. Ensure the latest version of python is installed in your terminal
