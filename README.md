@@ -4,6 +4,7 @@ Python script that converts links provided by the user into QR codes using the p
 Prerequisites:
 1. Ensure the latest version of python is installed in your terminal
 2. Install the qrcode library for python (Generally done in an env using "pip install qrcode")
+3. Install the pillow library for python (Generally done in an env using "pip install pillow")
 
 Download:
 * To download, simply type "git clone https://github.com/RavenTheBird789/QR-Code-Generator" in your terminals command line
