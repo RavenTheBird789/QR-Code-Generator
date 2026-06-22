@@ -19,11 +19,11 @@ emptySpace = " "
 # Trademark Decorator
 def trademark(QR_func):
     def wrapper():
-        print(blue(equalSign * 20))
+        print(blue(equalSign * 19))
         print(blue(bold(f"{emptySpace}QR Code Generator")))
-        print(blue(equalSign * 20))
+        print(blue(equalSign * 19))
         print(red("By: RavenTheBird789"))
-        print(blue(equalSign * 20))
+        print(blue(equalSign * 19))
         QR_func()
     return wrapper
 
