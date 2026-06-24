@@ -44,7 +44,7 @@ def QR_Code():
     # Make the QR code
     qr.make(fit=True)
 
-    # Create an image from the QR code with a yellow fill color and red background
+    # Create an image from the QR code with a yellow fill color and red background (Fill and background color can be modified as the user sees fit)
     img = qr.make_image(fill_color="yellow", back_color="red")
 
     # Save the QR code image
