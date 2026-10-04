@@ -1,4 +1,4 @@
-# QR-Code-Generator ⛶
+# QR Code Generator ⛶
 Python script that converts the input provided by the user into a QR code using the python qrcode and pillow libraries and saves it as a local file
 
 Prerequisites:
